@@ -1,0 +1,20 @@
+{
+    "name": "keli-justsix",
+    "version": "1.0.4",
+    "description": "只会发6",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "666",
+        "keli"
+    ],
+    "author": "islanddddddd",
+    "license": "ISC",
+    "homepage": "https://github.com/islanddddddd/keli-justsix",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/islanddddddd/keli-justsix"
+    }
+}
