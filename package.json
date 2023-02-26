@@ -1,6 +1,6 @@
 {
     "name": "keli-justsix",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "description": "只会发6",
     "main": "index.js",
     "scripts": {
@@ -8,7 +8,8 @@
     },
     "keywords": [
         "666",
-        "keli"
+        "keli",
+        "keli-plugin"
     ],
     "author": "islanddddddd",
     "license": "ISC",
